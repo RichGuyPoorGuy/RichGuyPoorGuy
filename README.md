@@ -32,7 +32,7 @@ Computer Science undergraduate with a strong academic foundation and hands-on ex
 **AI & Technology**
 - Google Cloud **Generative AI** — *Score: 94.8*  
   *(Smart Resume Generator – Project Completion)*  
-- MERN Stack Developer — **iamneo (NIIT Venture)**
+- MERN Stack Developer — **iamneo**
 - Introduction to Machine Learning — **NPTEL**  
   *Top 2% · Elite + Silver*
 - Microsoft AI Skills Challenge — **Microsoft**
