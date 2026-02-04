@@ -16,7 +16,7 @@ Computer Science undergraduate with a strong academic foundation and hands-on ex
   A production-grade financial services website built for a registered Australian firm, featuring quote generation, finance calculators, appointment booking, verification flows, and an integrated chatbot to support customer engagement.
 
 - **Quick Links Manager**  
-  A Chrome extension designed to organize and manage links using categories, tags, smart search, and CSV import/export.
+  An extension designed to organize and manage links using categories, tags, smart search, and CSV import/export.
 
 ---
 
@@ -44,6 +44,12 @@ Computer Science undergraduate with a strong academic foundation and hands-on ex
 - MERN Stack (project-based)  
 - Product-focused full-stack development  
 
+### AI & LLM Tools
+- Practical experience leveraging **ChatGPT, Google Gemini, DeepSeek, Grok**, and other LLMs for:
+  - Project development
+  - Automation and productivity
+  - Research and prototyping
+ 
 ---
 
 📌 Detailed documentation, live demos, and implementation insights are shared via **LinkedIn**.
